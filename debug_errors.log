@@ -1,0 +1,137 @@
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Starting request processing
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Database connection loaded
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] ChatbotDatabase class loaded
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] AI config loaded
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Creating chatbot instance
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] DebugChatbotAPI constructed
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] POST request received
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Input decoded: {"message":"t\u00ecm \u00e1o nam"}
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Processing message: tìm áo nam for user: 0
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Using temp user ID: 17586320521537
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Processing message: tìm áo nam for user: 17586320521537
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Detected language: vi
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Getting AI response for: tìm áo nam
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Analyzing message: tìm áo nam
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Search terms: áo, nam
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Categories loaded: 3
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Found category match: Nam for term: nam
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Found 5 products for term: áo
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Product info length: 1182
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Returning product response
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] AI response length: 1260
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Final result created successfully
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Response generated: 
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] JSON output length: 0
+[23-Sep-2025 14:54:12 Europe/Berlin] [DEBUG] Response sent
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Starting request processing
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Database connection loaded
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] ChatbotDatabase class loaded
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] AI config loaded
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Creating chatbot instance
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] DebugChatbotAPI constructed
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] POST request received
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Input decoded: {"message":"t\u00ecm \u00e1o nam"}
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Processing message: tìm áo nam for user: 0
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Using temp user ID: 17586321325032
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Processing message: tìm áo nam for user: 17586321325032
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Detected language: vi
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Getting AI response for: tìm áo nam
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Analyzing message: tìm áo nam
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Search terms: áo, nam
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Categories loaded: 3
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Found category match: Nam for term: nam
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Found 5 products for term: áo
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Product info length: 1182
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Returning product response
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] AI response length: 1260
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Final result created successfully
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Response generated, checking JSON encoding
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] JSON output length: 0
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] JSON error: Malformed UTF-8 characters, possibly incorrectly encoded
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] Response structure: Array
+(
+    [success] => 1
+    [response] => Dưới đây là các sản phẩm phù hợp với yêu cầu của bạn:
+
+KẾT QUẢ TÌM KIẾM 'áo':
+• Áo polo COOLMAX® có hoạ tiết in - 199.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Áo polo bằng vải thun cá sấu mềm làm từ cotton pha có hoạ tiết in nhỏ ở phía ...
+
+• Áo thun may nối phẳng COOLMAX® - 200.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Áo thun bằng jersey mềm làm từ cotton pha có đường may nối phẳng trang trí. Cổ t...
+
+• Quần short vải thun cá sấu COOLMAX® - 199.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Quần short bằng vải thun cá sấu mềm làm từ cotton pha. Cạp chun bọc, túi hai bên...
+
+• Quần lửng Slim Fit - 499.000 đ (giảm từ 599.000 đ) - Còn hàng
+  Danh mục: Nam
+  Mô tả: Quần dài ngang mắt cá bằng cotton dệt chéo mềm có cạp co giãn, nẹp khoá kéo cà...
+
+• Quần short chino lyocell pha Regular Fit - 499.000 đ (giảm từ 599.000 đ) - Còn hàng
+  Danh mục: Nam
+  Mô tả: Quần short chino dệt chéo mềm làm từ lyocell và cotton pha có ly đứng ở phía trư�...
+
+
+    [language] => vi
+)
+
+[23-Sep-2025 14:55:32 Europe/Berlin] [DEBUG] JSON encoding failed: Malformed UTF-8 characters, possibly incorrectly encoded
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Starting request processing
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Database connection loaded
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] ChatbotDatabase class loaded
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] AI config loaded
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Creating chatbot instance
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] DebugChatbotAPI constructed
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] POST request received
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Input decoded: {"message":"t\u00ecm \u00e1o nam"}
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Processing message: tìm áo nam for user: 0
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Using temp user ID: 17586321902387
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Processing message: tìm áo nam for user: 17586321902387
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Detected language: vi
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Getting AI response for: tìm áo nam
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Analyzing message: tìm áo nam
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Search terms: áo, nam
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Categories loaded: 3
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Found category match: Nam for term: nam
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Found 5 products for term: áo
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Product info length: 1187
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Returning product response
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] AI response length: 1265
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Final result created successfully
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Response generated, checking JSON encoding
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] JSON output length: 1334
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] JSON error: No error
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Response structure: Array
+(
+    [success] => 1
+    [response] => Dưới đây là các sản phẩm phù hợp với yêu cầu của bạn:
+
+KẾT QUẢ TÌM KIẾM 'áo':
+• Áo polo COOLMAX® có hoạ tiết in - 199.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Áo polo bằng vải thun cá sấu mềm làm từ cotton pha có hoạ tiết in nhỏ ở phía trư...
+
+• Áo thun may nối phẳng COOLMAX® - 200.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Áo thun bằng jersey mềm làm từ cotton pha có đường may nối phẳng trang trí. Cổ t...
+
+• Quần short vải thun cá sấu COOLMAX® - 199.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Quần short bằng vải thun cá sấu mềm làm từ cotton pha. Cạp chun bọc, túi hai bên...
+
+• Quần lửng Slim Fit - 499.000 đ (giảm từ 599.000 đ) - Còn hàng
+  Danh mục: Nam
+  Mô tả: Quần dài ngang mắt cá bằng cotton dệt chéo mềm có cạp co giãn, nẹp khoá kéo cài ...
+
+• Quần short chino lyocell pha Regular Fit - 499.000 đ (giảm từ 599.000 đ) - Còn hàng
+  Danh mục: Nam
+  Mô tả: Quần short chino dệt chéo mềm làm từ lyocell và cotton pha có ly đứng ở phía trư...
+
+
+    [language] => vi
+)
+
+[23-Sep-2025 14:56:30 Europe/Berlin] [DEBUG] Response sent successfully

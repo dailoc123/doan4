@@ -1,0 +1,137 @@
+2025-09-23 14:54:12 - Starting request processing
+2025-09-23 14:54:12 - Database connection loaded
+2025-09-23 14:54:12 - ChatbotDatabase class loaded
+2025-09-23 14:54:12 - AI config loaded
+2025-09-23 14:54:12 - Creating chatbot instance
+2025-09-23 14:54:12 - DebugChatbotAPI constructed
+2025-09-23 14:54:12 - POST request received
+2025-09-23 14:54:12 - Input decoded: {"message":"t\u00ecm \u00e1o nam"}
+2025-09-23 14:54:12 - Processing message: tìm áo nam for user: 0
+2025-09-23 14:54:12 - Using temp user ID: 17586320521537
+2025-09-23 14:54:12 - Processing message: tìm áo nam for user: 17586320521537
+2025-09-23 14:54:12 - Detected language: vi
+2025-09-23 14:54:12 - Getting AI response for: tìm áo nam
+2025-09-23 14:54:12 - Analyzing message: tìm áo nam
+2025-09-23 14:54:12 - Search terms: áo, nam
+2025-09-23 14:54:12 - Categories loaded: 3
+2025-09-23 14:54:12 - Found category match: Nam for term: nam
+2025-09-23 14:54:12 - Found 5 products for term: áo
+2025-09-23 14:54:12 - Product info length: 1182
+2025-09-23 14:54:12 - Returning product response
+2025-09-23 14:54:12 - AI response length: 1260
+2025-09-23 14:54:12 - Final result created successfully
+2025-09-23 14:54:12 - Response generated: 
+2025-09-23 14:54:12 - JSON output length: 0
+2025-09-23 14:54:12 - Response sent
+2025-09-23 14:55:32 - Starting request processing
+2025-09-23 14:55:32 - Database connection loaded
+2025-09-23 14:55:32 - ChatbotDatabase class loaded
+2025-09-23 14:55:32 - AI config loaded
+2025-09-23 14:55:32 - Creating chatbot instance
+2025-09-23 14:55:32 - DebugChatbotAPI constructed
+2025-09-23 14:55:32 - POST request received
+2025-09-23 14:55:32 - Input decoded: {"message":"t\u00ecm \u00e1o nam"}
+2025-09-23 14:55:32 - Processing message: tìm áo nam for user: 0
+2025-09-23 14:55:32 - Using temp user ID: 17586321325032
+2025-09-23 14:55:32 - Processing message: tìm áo nam for user: 17586321325032
+2025-09-23 14:55:32 - Detected language: vi
+2025-09-23 14:55:32 - Getting AI response for: tìm áo nam
+2025-09-23 14:55:32 - Analyzing message: tìm áo nam
+2025-09-23 14:55:32 - Search terms: áo, nam
+2025-09-23 14:55:32 - Categories loaded: 3
+2025-09-23 14:55:32 - Found category match: Nam for term: nam
+2025-09-23 14:55:32 - Found 5 products for term: áo
+2025-09-23 14:55:32 - Product info length: 1182
+2025-09-23 14:55:32 - Returning product response
+2025-09-23 14:55:32 - AI response length: 1260
+2025-09-23 14:55:32 - Final result created successfully
+2025-09-23 14:55:32 - Response generated, checking JSON encoding
+2025-09-23 14:55:32 - JSON output length: 0
+2025-09-23 14:55:32 - JSON error: Malformed UTF-8 characters, possibly incorrectly encoded
+2025-09-23 14:55:32 - Response structure: Array
+(
+    [success] => 1
+    [response] => Dưới đây là các sản phẩm phù hợp với yêu cầu của bạn:
+
+KẾT QUẢ TÌM KIẾM 'áo':
+• Áo polo COOLMAX® có hoạ tiết in - 199.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Áo polo bằng vải thun cá sấu mềm làm từ cotton pha có hoạ tiết in nhỏ ở phía ...
+
+• Áo thun may nối phẳng COOLMAX® - 200.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Áo thun bằng jersey mềm làm từ cotton pha có đường may nối phẳng trang trí. Cổ t...
+
+• Quần short vải thun cá sấu COOLMAX® - 199.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Quần short bằng vải thun cá sấu mềm làm từ cotton pha. Cạp chun bọc, túi hai bên...
+
+• Quần lửng Slim Fit - 499.000 đ (giảm từ 599.000 đ) - Còn hàng
+  Danh mục: Nam
+  Mô tả: Quần dài ngang mắt cá bằng cotton dệt chéo mềm có cạp co giãn, nẹp khoá kéo cà...
+
+• Quần short chino lyocell pha Regular Fit - 499.000 đ (giảm từ 599.000 đ) - Còn hàng
+  Danh mục: Nam
+  Mô tả: Quần short chino dệt chéo mềm làm từ lyocell và cotton pha có ly đứng ở phía trư�...
+
+
+    [language] => vi
+)
+
+2025-09-23 14:55:32 - JSON encoding failed: Malformed UTF-8 characters, possibly incorrectly encoded
+2025-09-23 14:56:30 - Starting request processing
+2025-09-23 14:56:30 - Database connection loaded
+2025-09-23 14:56:30 - ChatbotDatabase class loaded
+2025-09-23 14:56:30 - AI config loaded
+2025-09-23 14:56:30 - Creating chatbot instance
+2025-09-23 14:56:30 - DebugChatbotAPI constructed
+2025-09-23 14:56:30 - POST request received
+2025-09-23 14:56:30 - Input decoded: {"message":"t\u00ecm \u00e1o nam"}
+2025-09-23 14:56:30 - Processing message: tìm áo nam for user: 0
+2025-09-23 14:56:30 - Using temp user ID: 17586321902387
+2025-09-23 14:56:30 - Processing message: tìm áo nam for user: 17586321902387
+2025-09-23 14:56:30 - Detected language: vi
+2025-09-23 14:56:30 - Getting AI response for: tìm áo nam
+2025-09-23 14:56:30 - Analyzing message: tìm áo nam
+2025-09-23 14:56:30 - Search terms: áo, nam
+2025-09-23 14:56:30 - Categories loaded: 3
+2025-09-23 14:56:30 - Found category match: Nam for term: nam
+2025-09-23 14:56:30 - Found 5 products for term: áo
+2025-09-23 14:56:30 - Product info length: 1187
+2025-09-23 14:56:30 - Returning product response
+2025-09-23 14:56:30 - AI response length: 1265
+2025-09-23 14:56:30 - Final result created successfully
+2025-09-23 14:56:30 - Response generated, checking JSON encoding
+2025-09-23 14:56:30 - JSON output length: 1334
+2025-09-23 14:56:30 - JSON error: No error
+2025-09-23 14:56:30 - Response structure: Array
+(
+    [success] => 1
+    [response] => Dưới đây là các sản phẩm phù hợp với yêu cầu của bạn:
+
+KẾT QUẢ TÌM KIẾM 'áo':
+• Áo polo COOLMAX® có hoạ tiết in - 199.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Áo polo bằng vải thun cá sấu mềm làm từ cotton pha có hoạ tiết in nhỏ ở phía trư...
+
+• Áo thun may nối phẳng COOLMAX® - 200.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Áo thun bằng jersey mềm làm từ cotton pha có đường may nối phẳng trang trí. Cổ t...
+
+• Quần short vải thun cá sấu COOLMAX® - 199.000 đ (giảm từ 299.000 đ) - Còn hàng
+  Danh mục: Trẻ Em
+  Mô tả: Quần short bằng vải thun cá sấu mềm làm từ cotton pha. Cạp chun bọc, túi hai bên...
+
+• Quần lửng Slim Fit - 499.000 đ (giảm từ 599.000 đ) - Còn hàng
+  Danh mục: Nam
+  Mô tả: Quần dài ngang mắt cá bằng cotton dệt chéo mềm có cạp co giãn, nẹp khoá kéo cài ...
+
+• Quần short chino lyocell pha Regular Fit - 499.000 đ (giảm từ 599.000 đ) - Còn hàng
+  Danh mục: Nam
+  Mô tả: Quần short chino dệt chéo mềm làm từ lyocell và cotton pha có ly đứng ở phía trư...
+
+
+    [language] => vi
+)
+
+2025-09-23 14:56:30 - Response sent successfully
